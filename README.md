@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Passive
-- 👀 I’m interested in Programming and 3D blender modelling (Python ethical and non ethical hacker)
+- 👋 Hi, I’m Klausz
+- 👀 I’m interested in Programming and 3D blender modelling (Python and Lua)
 - 🌱 I’m currently learning the coding language c++ and trying to make a super computer
 - 💞️ I’m looking to collaborate on my pyhsics (The universe)
 - 📫 How to reach me my discord is Passive#0002
